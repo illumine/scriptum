@@ -1,7 +1,7 @@
 scriptum
 ========
 
-Κλώνος του [αποθετηρίου SCRIPTUM][SCRIPTUM]: https://github.com/eellak/scriptum  με σκοπό την εξσφαλμάτωση του. 
+Κλώνος του [αποθετηρίου SCRIPTUM][SCRIPTUM]. https://github.com/eellak/scriptum  με σκοπό την εξσφαλμάτωση του. 
 
 Η [ILLUMINE Consulting]: http://www.illumine.gr/ θα ενημερώνει στο εξής το παρόν αποθετήριο με τις απαραίτητες ενημερώσεις του κώδικα που εγιναν με βαση των αναφερόμένων προβλημάτων της λίστας ταχυδρομείου. 
 
